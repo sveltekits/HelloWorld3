@@ -1,1 +1,1 @@
-<h1>HelloWorld :: JavaScript Code</h1>
+<h1>HelloWorld :: Sveltekit Code</h1>
