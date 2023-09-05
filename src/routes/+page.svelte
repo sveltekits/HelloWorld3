@@ -11,12 +11,10 @@
 	class="h-screen bg-cover relative"
 	style="background-image: url(https://img.favpng.com/14/21/24/united-states-national-senior-citizens-day-old-age-clip-art-png-favpng-XBt3AZ2u8qARkq91eEbnhx0UB.jpg)"
 >
-	<nav
-		class="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600"
-	>
+	<nav class="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200">
 		<div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
 			<a href="http://localhost:5173" class="flex items-center">
-				<img src="https://flowbite.com/docs/images/logo.svg" class="h-8 mr-3" alt="Flowbite Logo" />
+				<img src="/images/logo_GM_03.png" class="h-10 mr-3 -mt-2" alt="logo_senior" />
 				<span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"
 					>시니어.닷컴</span
 				>
@@ -72,9 +70,9 @@
 				>
 					<li>
 						<a
-							href="/senior"
+							href="/life"
 							class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
-							>시니어 월드</a
+							>노년생활</a
 						>
 					</li>
 					<li>
@@ -89,6 +87,13 @@
 							href="/welfare"
 							class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
 							>복지</a
+						>
+					</li>
+					<li>
+						<a
+							href="/share"
+							class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+							>요양·실버타운·공유 하우스</a
 						>
 					</li>
 					<li>

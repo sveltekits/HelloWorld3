@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap'); */
 
 @tailwind base;
 @tailwind components;
@@ -7,6 +7,12 @@
 /* 
 .card {
 	@apply bg-white rounded overflow-hidden shadow-md relative;
+}
+
+@layer components {
+	.video {
+		@apply px-12 py-14 bg-gray-200 text-center shadow-md;
+	}
 }
 
 .badge {
